@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-![Alt text](/notepadsharp demo 1.png?raw=true "notepadsharp demo 1")
+![Alt text](/notepadsharp1.png?raw=true "notepadsharp1")
 
 ## Features
 - Save As... dialog
