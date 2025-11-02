@@ -1,16 +1,10 @@
 # NotepadSharp
 
-====================================
-
 **NotepadSharp** — simple text editor written in **C#** and **XAML**.  
 
-====================================
-
-## Demo / Screenshot
+## Screenshot
 
 ![Alt text](/notepadsharp demo 1.png?raw=true "notepadsharp demo 1")
-
-====================================
 
 ## Features
 - Save As... dialog
@@ -20,8 +14,6 @@
 - Basic text formatting (bold / italic)
 - Create / Delete files
 - Basic validation for numeric inputs using regex
-
-====================================
 
 ## Planned features
 - Better AWK-like command parsing (and more commands)
@@ -35,8 +27,6 @@
 - Line numbers and Go To Line function
 - Themes with possible functionality for users to create custom themes
 - Support for multiple formats (docx, pdf, etc.)
-
-====================================
 
 ## How to run
 1. Clone repository:
