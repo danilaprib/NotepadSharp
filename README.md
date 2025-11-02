@@ -8,7 +8,7 @@
 
 ## Demo / Screenshot
 
-![Alt text](/notepadsharp demo 1.jpg?raw=true "notepadsharp demo 1")
+![Alt text](/notepadsharp demo 1.png?raw=true "notepadsharp demo 1")
 
 ====================================
 
